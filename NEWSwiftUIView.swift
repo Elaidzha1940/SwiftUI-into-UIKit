@@ -10,6 +10,7 @@ import SwiftUI
 struct NEWSwiftUIView: View {
     var body: some View {
         Text("Hello, SwiftUI !")
+        Text("HI!")
     }
 }
 
